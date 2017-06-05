@@ -5,4 +5,4 @@ import App from './components/Main';
 import ClickComponent from './components/ClickComponent';
 
 // Render the main component into the dom
-ReactDOM.render(<div><App /><ClickComponent xxx='Hello React.....'/></div>, document.getElementById('app'));
+ReactDOM.render(<div><App /><ClickComponent xxx='Hello React...... I am testing my local github'/></div>, document.getElementById('app'));

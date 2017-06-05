@@ -6,7 +6,7 @@ class ClickComponent extends React.Component{
   constructor()
   {
     super();
-    this.state={textContent:'Hello React......'};
+    this.state={textContent:'Hello React...... I am testing my local github'};
   }
 /*
   getInitialState只能在React.CreateClass()中可以用
